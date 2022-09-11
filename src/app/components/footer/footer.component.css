@@ -5,6 +5,7 @@ footer{
     display: flex;
     justify-content: space-between;
 
+
 }
 .fa-brands {
   color: #c2c2c3;
@@ -16,4 +17,8 @@ footer{
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+p
+{
+  font-weight: bold;
 }

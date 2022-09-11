@@ -11,6 +11,7 @@ justify-content: center;
 }
 #carouselExampleInterval{
 margin: auto;
-width: 800px;
+width: 600px;
+height: 650px;
 }
 #logo-car{width: 40%}

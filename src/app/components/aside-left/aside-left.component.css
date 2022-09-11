@@ -21,6 +21,7 @@
   border-radius: 50%;
   -webkit-animation: flip-scale-up-hor 0.5s linear both;
   animation: flip-scale-up-hor 0.5s linear both;
+  animation-iteration-count: 2;
 }
 
 @-webkit-keyframes flip-scale-up-hor {
