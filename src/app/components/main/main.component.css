@@ -15,3 +15,10 @@ width: 600px;
 height: 650px;
 }
 #logo-car{width: 40%}
+@media (max-width: 600px) {
+  #carouselExampleInterval {
+    margin: auto;
+    width: 300px;
+    height: 350px;
+  }
+}
